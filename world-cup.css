@@ -1,8 +1,25 @@
 /* header */
 .container {
+    width: 90%;
+    border-radius: 15px;
     background-color: #161616;
+    height: 500px;
+    display: flex;
 }
 
 .top-banner {
     color: #FFFFFF;
+
+
+}
+
+.link-button {
+    background-color: red;
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.top-banner {
+    width: 50%;
 }
